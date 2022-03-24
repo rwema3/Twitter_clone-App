@@ -89,4 +89,6 @@ class _MyHomePageState extends State<ShareWidget> {
           mainAxisAlignment: MainAxisAlignment.start,
           children: <Widget>[
             RepaintBoundary(
+                key: _globalKey,
+                child: Container(
  
