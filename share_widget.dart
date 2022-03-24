@@ -47,4 +47,3 @@ class _MyHomePageState extends State<ShareWidget> {
   Future _capturePng() async {
     try {
       isLoading.value = true;
-      RenderRepaintBoundary boundary = _globalKey.currentContext!
