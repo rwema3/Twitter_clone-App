@@ -30,3 +30,4 @@ class ShareWidget extends StatefulWidget {
     );
   }
 
+  final Widget child;
