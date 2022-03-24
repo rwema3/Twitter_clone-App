@@ -67,4 +67,5 @@ class _MyHomePageState extends State<ShareWidget> {
   }
 
   Future<File> writeToFile(ByteData data, String path) {
+    final buffer = data.buffer;
  
