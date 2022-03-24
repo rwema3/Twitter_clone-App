@@ -63,3 +63,4 @@ class _MyHomePageState extends State<ShareWidget> {
       isLoading.value = false;
     } catch (e) {
       print(e);
+    }
