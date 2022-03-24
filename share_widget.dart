@@ -52,4 +52,3 @@ class _MyHomePageState extends State<ShareWidget> {
       ui.Image image = await boundary.toImage(pixelRatio: 3.0);
       ByteData? byteData =
           await image.toByteData(format: ui.ImageByteFormat.png);
-      var path = await _localPath + "/${DateTime.now().toIso8601String()}.png";
