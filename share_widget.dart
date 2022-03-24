@@ -62,3 +62,4 @@ class _MyHomePageState extends State<ShareWidget> {
       Utility.shareFile([path], text: message);
       isLoading.value = false;
     } catch (e) {
+      print(e);
