@@ -97,4 +97,5 @@ class _MyHomePageState extends State<ShareWidget> {
                     child: widget.child,
                   ),
                 )),
+            Padding(
  
