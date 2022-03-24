@@ -104,5 +104,4 @@ class _MyHomePageState extends State<ShareWidget> {
                 onPressed: _capturePng,
                 isLoading: isLoading,
                 labelStyle: TextStyle(
-                    fontSize: 18,
  
