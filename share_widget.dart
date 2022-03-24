@@ -101,5 +101,4 @@ class _MyHomePageState extends State<ShareWidget> {
               padding: const EdgeInsets.symmetric(horizontal: 16, vertical: 16),
               child: CustomFlatButton(
                 label: "Share",
-                onPressed: _capturePng,
  
