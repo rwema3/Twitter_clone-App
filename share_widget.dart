@@ -84,4 +84,5 @@ class _MyHomePageState extends State<ShareWidget> {
       appBar: AppBar(
         title: const Text('Share'),
       ),
+      body: SingleChildScrollView(
  
