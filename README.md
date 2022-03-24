@@ -1,4 +1,4 @@
-## Fwitter - Twitter clone in flutter [![GitHub stars](https://img.shields.io/github/stars/Thealphamerc/flutter_twitter_clone?style=social)](https://github.com/login?return_to=%2FTheAlphamerc%flutter_twitter_clone) ![GitHub forks](https://img.shields.io/github/forks/TheAlphamerc/flutter_twitter_clone?style=social) 
+## Fwitter - Twitter clone in flutter
 
 A working Twitter clone built in Flutter using Firebase auth,realtime,firestore database and storage.
 
