@@ -45,3 +45,4 @@ class _MyHomePageState extends State<ShareWidget> {
   }
 
   Future _capturePng() async {
+    try {
