@@ -76,8 +76,6 @@ Content Prefrences Page      |  Display Setting Page    |  Data Settings Page   
 
 
 
-
-
 ## Getting started 
 * Project setup instructions are given at [Wiki](https://github.com/TheAlphamerc/flutter_twitter_clone/wiki/Gettings-Started) section.
 
