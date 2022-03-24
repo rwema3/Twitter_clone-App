@@ -48,4 +48,3 @@ class _MyHomePageState extends State<ShareWidget> {
     try {
       isLoading.value = true;
       RenderRepaintBoundary boundary = _globalKey.currentContext!
-          .findRenderObject() as RenderRepaintBoundary;
