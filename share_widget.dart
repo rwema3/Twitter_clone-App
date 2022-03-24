@@ -33,3 +33,4 @@ class ShareWidget extends StatefulWidget {
   final Widget child;
   @override
   _MyHomePageState createState() => _MyHomePageState();
+}
