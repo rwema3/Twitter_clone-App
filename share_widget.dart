@@ -55,4 +55,3 @@ class _MyHomePageState extends State<ShareWidget> {
       var path = await _localPath + "/${DateTime.now().toIso8601String()}.png";
       await writeToFile(byteData!, path);
 
-      var shareUrl = await Utility.createLinkToShare(context, widget.id,
