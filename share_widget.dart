@@ -64,4 +64,3 @@ class _MyHomePageState extends State<ShareWidget> {
     } catch (e) {
       print(e);
     }
-  }
