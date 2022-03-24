@@ -85,5 +85,4 @@ class _MyHomePageState extends State<ShareWidget> {
         title: const Text('Share'),
       ),
       body: SingleChildScrollView(
-        child: Column(
  
