@@ -56,3 +56,4 @@ class _MyHomePageState extends State<ShareWidget> {
       await writeToFile(byteData!, path);
 
       var shareUrl = await Utility.createLinkToShare(context, widget.id,
+          socialMetaTagParameters: widget.socialMetaTagParameters);
