@@ -99,4 +99,5 @@ class _MyHomePageState extends State<ShareWidget> {
                 )),
             Padding(
               padding: const EdgeInsets.symmetric(horizontal: 16, vertical: 16),
+              child: CustomFlatButton(
  
