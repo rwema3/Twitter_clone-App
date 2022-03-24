@@ -109,5 +109,6 @@ class _MyHomePageState extends State<ShareWidget> {
                     fontWeight: FontWeight.bold),
               ),
             )
+          ],
       
  
