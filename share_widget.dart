@@ -40,4 +40,3 @@ class _MyHomePageState extends State<ShareWidget> {
   ValueNotifier<bool> isLoading = ValueNotifier<bool>(false);
   @override
   void dispose() {
-    isLoading.dispose();
