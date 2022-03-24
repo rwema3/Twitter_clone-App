@@ -26,3 +26,4 @@ class ShareWidget extends StatefulWidget {
       builder: (_) => ShareWidget(
           child: child,
           id: id,
+          socialMetaTagParameters: socialMetaTagParameters),
