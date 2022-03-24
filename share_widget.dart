@@ -76,5 +76,4 @@ class _MyHomePageState extends State<ShareWidget> {
     final directory = await getApplicationDocumentsDirectory();
 
     return directory.path;
-  }
  
