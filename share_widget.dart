@@ -73,6 +73,4 @@ class _MyHomePageState extends State<ShareWidget> {
   }
 
   Future<String> get _localPath async {
-    final directory = await getApplicationDocumentsDirectory();
-
  
