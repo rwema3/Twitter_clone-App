@@ -41,3 +41,5 @@ class _MyHomePageState extends State<ShareWidget> {
   @override
   void dispose() {
     isLoading.dispose();
+    super.dispose();
+  }
