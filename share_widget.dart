@@ -61,3 +61,4 @@ class _MyHomePageState extends State<ShareWidget> {
           "*${widget.socialMetaTagParameters.title}*\n${widget.socialMetaTagParameters.description ?? " "}\n$shareUrl";
       Utility.shareFile([path], text: message);
       isLoading.value = false;
+    } catch (e) {
