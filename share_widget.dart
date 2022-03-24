@@ -72,4 +72,5 @@ class _MyHomePageState extends State<ShareWidget> {
         buffer.asUint8List(data.offsetInBytes, data.lengthInBytes));
   }
 
+  Future<String> get _localPath async {
  
