@@ -24,3 +24,4 @@ class ShareWidget extends StatefulWidget {
       required String id}) {
     return MaterialPageRoute(
       builder: (_) => ShareWidget(
+          child: child,
