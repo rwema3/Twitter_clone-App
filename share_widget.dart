@@ -28,4 +28,3 @@ class ShareWidget extends StatefulWidget {
           id: id,
           socialMetaTagParameters: socialMetaTagParameters),
     );
-  }
