@@ -44,4 +44,3 @@ class _MyHomePageState extends State<ShareWidget> {
     super.dispose();
   }
 
-  Future _capturePng() async {
