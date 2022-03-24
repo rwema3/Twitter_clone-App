@@ -21,3 +21,4 @@ class ShareWidget extends StatefulWidget {
   static MaterialPageRoute getRoute(
       {required Widget child,
       required SocialMetaTagParameters socialMetaTagParameters,
+      required String id}) {
