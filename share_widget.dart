@@ -43,4 +43,3 @@ class _MyHomePageState extends State<ShareWidget> {
     isLoading.dispose();
     super.dispose();
   }
-
