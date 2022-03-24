@@ -91,4 +91,5 @@ class _MyHomePageState extends State<ShareWidget> {
             RepaintBoundary(
                 key: _globalKey,
                 child: Container(
+                  color: Theme.of(context).colorScheme.onPrimary,
  
