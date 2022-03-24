@@ -17,3 +17,4 @@ class ShareWidget extends StatefulWidget {
       : super(key: key);
 
   final SocialMetaTagParameters socialMetaTagParameters;
+  final String id;
