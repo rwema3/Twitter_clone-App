@@ -90,5 +90,4 @@ class _MyHomePageState extends State<ShareWidget> {
           children: <Widget>[
             RepaintBoundary(
                 key: _globalKey,
-                child: Container(
  
