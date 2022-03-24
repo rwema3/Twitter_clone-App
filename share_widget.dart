@@ -36,4 +36,3 @@ class ShareWidget extends StatefulWidget {
 }
 
 class _MyHomePageState extends State<ShareWidget> {
-  final GlobalKey _globalKey = GlobalKey();
