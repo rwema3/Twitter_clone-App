@@ -39,4 +39,3 @@ class _MyHomePageState extends State<ShareWidget> {
   final GlobalKey _globalKey = GlobalKey();
   ValueNotifier<bool> isLoading = ValueNotifier<bool>(false);
   @override
-  void dispose() {
