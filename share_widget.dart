@@ -35,3 +35,4 @@ class ShareWidget extends StatefulWidget {
   _MyHomePageState createState() => _MyHomePageState();
 }
 
+class _MyHomePageState extends State<ShareWidget> {
