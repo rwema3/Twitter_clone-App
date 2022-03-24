@@ -82,4 +82,5 @@ class _MyHomePageState extends State<ShareWidget> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
+        title: const Text('Share'),
  
