@@ -58,4 +58,3 @@ class _MyHomePageState extends State<ShareWidget> {
       var shareUrl = await Utility.createLinkToShare(context, widget.id,
           socialMetaTagParameters: widget.socialMetaTagParameters);
       var message =
-          "*${widget.socialMetaTagParameters.title}*\n${widget.socialMetaTagParameters.description ?? " "}\n$shareUrl";
