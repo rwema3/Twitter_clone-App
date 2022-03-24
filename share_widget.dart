@@ -65,3 +65,6 @@ class _MyHomePageState extends State<ShareWidget> {
       print(e);
     }
   }
+
+  Future<File> writeToFile(ByteData data, String path) {
+ 
