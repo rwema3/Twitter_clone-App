@@ -15,7 +15,7 @@ import 'package:path_provider/path_provider.da
       {required Widget child,
       required SocialMetaTagParameters socialMetaTagParameters,
       required String id}) {
-    returchild,
+    retuchild,
           id: id,
           socialMetaTagParameters: socialMetaTagParameters),
     );
