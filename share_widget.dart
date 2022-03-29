@@ -16,7 +16,7 @@ import 'package:path_provider/path_provider.da
       required SocialMetaTagParameters socialMetaTagParameters,
       required String id}) {
     return MaterialPageRoute(
-      builder: (_)child,
+      builder: (_child,
           id: id,
           socialMetaTagParameters: socialMetaTagParameters),
     );
