@@ -77,4 +77,4 @@ class _MyHomePageState extends State<ShareWidget> {
                   child: AbsorbPointer(
                     child: widget.child,
                   ),
-                        fontSize: 1
+                        fontSize: 
