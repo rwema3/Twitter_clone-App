@@ -11,8 +11,7 @@ import 'package:path_provider/path_provider.da
 
   final SocialMetaTagParameters socialMetaTagParameters;
   final String id;
-  static MaterialPageRoute getRoute(
-child,
+  static MaterialPageRoute getRoute(child,
           id: id,
           socialMetaTagParameters: socialMetaTagParameters),
     );
