@@ -5,7 +5,7 @@ import 'package:firebase_dynamic_links/firebase_dynamic_links.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/rendering.dart';
 import 'package:flutter_twitter_clone/helper/utility.dart';
-import 'package:flutter_twitter_clone/widgets/customFlatButton.
+import 'package:flutter_twitter_clone/widgets/customFlatButton
   final SocialMetaTagParameters socialMetaTagParametechild,
           id: id,
           socialMetaTagParameters: socialMetaTagParameters),
