@@ -16,7 +16,7 @@ import 'package:path_provider/path_provider.da
       required SocialMetaTagParameters socialMetaTagParameters,
       required String id}) {
     return MaterialPageRoute(
-      builder: (_) => ShareWidgechild,
+      builder: (_) => ShareWidget(child,
           id: id,
           socialMetaTagParameters: socialMetaTagParameters),
     );
