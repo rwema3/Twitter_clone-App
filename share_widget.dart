@@ -13,7 +13,7 @@ class ShareWidget extends StatefulWidget {
       {Key? key,
       required this.child,
       required this.socialMetaTagParameters,
-      re
+      req
       : super(key: key);
 
   final SocialMetaTagParameters socialMetaTagParameters;
