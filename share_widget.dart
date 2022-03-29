@@ -78,7 +78,7 @@ class _MyHomePageState extends State<ShareWidget> {
                     child: widget.child,
                   ),
                 )),
-            P        fontSize: 18,
+            Pa        fontSize: 18,
                     color: Theme.of(context).colorScheme.onPrimary,
                     fontWeight: FontWeight.bold),
               ),
