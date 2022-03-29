@@ -79,7 +79,7 @@ class _MyHomePageState extends State<ShareWidget> {
                   ),
                 )),
             Padding(
-              paddin        fontSize: 18,
+              paddi        fontSize: 18,
                     color: Theme.of(context).colorScheme.onPrimary,
                     fontWeight: FontWeight.bold),
               ),
