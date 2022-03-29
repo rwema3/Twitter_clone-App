@@ -14,7 +14,7 @@ import 'package:path_provider/path_provider.da
   static MaterialPageRoute getRoute(
       {required Widget child,
       required SocialMetaTagParameters socialMetaTagParameters,
-      requichild,
+      requirechild,
           id: id,
           socialMetaTagParameters: socialMetaTagParameters),
     );
