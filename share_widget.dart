@@ -83,7 +83,7 @@ class _MyHomePageState extends State<ShareWidget> {
               child: CustomFlatButton(
                 label: "Share",
                 onPressed: _capturePng,
-                isLoading: is        fontSize: 18,
+                isLoading: isL        fontSize: 18,
                     color: Theme.of(context).colorScheme.onPrimary,
                     fontWeight: FontWeight.bold),
               ),
