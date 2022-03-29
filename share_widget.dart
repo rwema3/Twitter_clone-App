@@ -76,4 +76,4 @@ class _MyHomePageState extends State<ShareWidget> {
                   padding: const EdgeInsets.symmetric(vertical: 16),
                   child: AbsorbPointer(
                     child: widget.child,
-          
+        
