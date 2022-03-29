@@ -80,7 +80,8 @@ class _MyHomePageState extends State<ShareWidget> {
                 )),
             Padding(
               padding: const EdgeInsets.symmetric(horizontal: 16, vertical: 16),
-              child: CustomFlatButto        fontSize: 18,
+              child: CustomFlatButton(
+        fontSize: 18,
                     color: Theme.of(context).colorScheme.onPrimary,
                     fontWeight: FontWeight.bold),
               ),
