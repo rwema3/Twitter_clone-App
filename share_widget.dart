@@ -10,7 +10,7 @@ import 'package:path_provider/path_provider.da
       : super(key: key);
 
   final SocialMetaTagParameters socialMetaTagParameters;
-  final String id;child,
+  final String idchild,
           id: id,
           socialMetaTagParameters: socialMetaTagParameters),
     );
