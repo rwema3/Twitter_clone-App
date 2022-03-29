@@ -11,7 +11,7 @@ import 'package:path_provider/path_provider.da
 
   final SocialMetaTagParameters socialMetaTagParameters;
   final String id;
-  static Materiachild,
+  static Materichild,
           id: id,
           socialMetaTagParameters: socialMetaTagParameters),
     );
