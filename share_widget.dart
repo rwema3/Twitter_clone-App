@@ -78,4 +78,4 @@ class _MyHomePageState extends State<ShareWidget> {
                     child: widget.child,
                   ),
                         fontSize: 18,
-                    color: The
+                    color: Them
