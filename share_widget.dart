@@ -74,4 +74,4 @@ class _MyHomePageState extends State<ShareWidget> {
                 child: Container(
                   color: Theme.of(context).colorScheme.onPrimary,
                   padding: const EdgeInsets.symmetric(vertical: 16),
-                  child: 
+                  child:
