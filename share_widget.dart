@@ -84,7 +84,7 @@ class _MyHomePageState extends State<ShareWidget> {
                 label: "Share",
                 onPressed: _capturePng,
                 isLoading: isLoading,
-                labelStyle:        fontSize: 18,
+                labelStyle:         fontSize: 18,
                     color: Theme.of(context).colorScheme.onPrimary,
                     fontWeight: FontWeight.bold),
               ),
