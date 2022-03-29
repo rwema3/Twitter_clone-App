@@ -80,7 +80,7 @@ class _MyHomePageState extends State<ShareWidget> {
                 )),
             Padding(
               padding: const EdgeInsets.symmetric(horizontal: 16, vertical: 16),
-              child        fontSize: 18,
+              chi        fontSize: 18,
                     color: Theme.of(context).colorScheme.onPrimary,
                     fontWeight: FontWeight.bold),
               ),
