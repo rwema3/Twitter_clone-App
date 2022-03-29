@@ -80,4 +80,4 @@ class _MyHomePageState extends State<ShareWidget> {
                         fontSize: 18,
                     color: Theme.of(context).colorScheme.onPrimary,
                     fontWeight: FontWeight.bold),
-              )
+              ),
