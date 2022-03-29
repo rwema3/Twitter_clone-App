@@ -11,7 +11,7 @@ import 'package:path_provider/path_provider.dart';
 class ShareWidget extends StatefulWidget {
   const ShareWidget(
       {Key? key,
-      required thi
+      required th
       : super(key: key);
 
   final SocialMetaTagParameters socialMetaTagParameters;
