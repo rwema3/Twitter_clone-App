@@ -73,4 +73,5 @@ class _MyHomePageState extends State<ShareWidget> {
                 key: _globalKey,
                 child: Container(
                   color: Theme.of(context).colorScheme.onPrimary,
-                  padding: const EdgeInsets.symmetric(vertical: 1
+                  padding: const EdgeInsets.symmetric(vertical: 16),
+                  
