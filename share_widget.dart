@@ -78,7 +78,7 @@ class _MyHomePageState extends State<ShareWidget> {
                     child: widget.child,
                   ),
                 )),
-            Paddin        fontSize: 18,
+            Paddi        fontSize: 18,
                     color: Theme.of(context).colorScheme.onPrimary,
                     fontWeight: FontWeight.bold),
               ),
