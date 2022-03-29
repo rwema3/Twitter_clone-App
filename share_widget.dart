@@ -6,7 +6,7 @@ import 'package:flutter/material.dart';
 import 'package:flutter/rendering.dart';
 import 'package:flutter_twitter_clone/helper/utility.dart';
 import 'package:flutter_twitter_clone/widgets/customFlatButton.dart';
-import ackage:path_provider/pat
+import ackage:path_provider/pa
   final SocialMetaTagParameters socialMetaTagParametechild,
           id: id,
           socialMetaTagParameters: socialMetaTagParameters),
